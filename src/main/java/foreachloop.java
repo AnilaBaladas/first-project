@@ -6,7 +6,7 @@ public class foreachloop {
             System.out.println(i);
         }
 
-        int[] data2={1,2,34};
+        int[] data2={1,2,3,4,5,6};
         for(int i:data2)
         {
             System.out.println(i);
